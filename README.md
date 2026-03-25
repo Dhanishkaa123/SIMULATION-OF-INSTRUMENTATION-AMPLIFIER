@@ -15,10 +15,12 @@
 7. Click on the run option ->simulation window opens->place the probe ->output graph is obtained.
 
 # SCHMITT TRIGGER CIRCUIT DIAGRAM:
-PASTE UR SIMULATION DIAGRAM HERE.
+<img width="424" height="260" alt="image" src="https://github.com/user-attachments/assets/b15f1bad-23cb-4a6c-8e4e-e68ef992a079" />
+
 
 # OUTPUT:
-PASTE UR SIMULATION GRAPH  HERE.
+<img width="459" height="240" alt="image" src="https://github.com/user-attachments/assets/435649f5-75a4-4109-a4c4-e58cf6efd7a6" />
+
 
 # RESULT :
 
